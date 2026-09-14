@@ -6,8 +6,7 @@ date: 2026-09-14 00:00:00 +0200
 
 *Ce texte fixe ma réflexion à date. Il ne sera pas modifié après publication ; toute évolution ultérieure fera l'objet d'un addenda daté, séparé, en bas de page ou dans un nouvel article lié.*
 
-*Preuve d'antériorité : [lien vers le commit GitHub de ce fichier — à insérer après le premier push]*
-
+*Preuve d'antériorité : 3daa688dd9437aa2d72c9cb6ecd2aec6c273ecf4
 ---
 
 ## Contexte
