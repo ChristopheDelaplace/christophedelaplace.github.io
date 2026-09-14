@@ -1,0 +1,14 @@
+title: Christophe Delaplace — Notes datées
+description: Thèses d'investissement et réflexions, publiées et horodatées sans recherche d'audience.
+theme: minima
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
+
+# Désactive les fonctionnalités sociales/découvrabilité par défaut du thème
+minima:
+  social_links:
+    enabled: false
+
+# Pas de flux "trending" ni d'intégration réseau — simple journal chronologique
+plugins:
+  - jekyll-feed
