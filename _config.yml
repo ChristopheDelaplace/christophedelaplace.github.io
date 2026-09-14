@@ -2,6 +2,7 @@ title: Christophe Delaplace — Notes datées
 description: Thèses d'investissement et réflexions, publiées et horodatées sans recherche d'audience.
 theme: minima
 timezone: Europe/Zurich
+future: true
 show_excerpts: true
 permalink: /:year/:month/:day/:title/
 
