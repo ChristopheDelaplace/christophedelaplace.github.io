@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thèse AMS-Osram (SIX: AMS) — état au 14 septembre 2026"
-date: 2026-09-14 00:00:00 +0200
+date: 2026-09-14 12:00:00 +0200
 ---
 
 *Ce texte fixe ma réflexion à date. Il ne sera pas modifié après publication ; toute évolution ultérieure fera l'objet d'un addenda daté, séparé, en bas de page ou dans un nouvel article lié.*
